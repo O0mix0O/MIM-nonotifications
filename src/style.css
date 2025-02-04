@@ -1,0 +1,7 @@
+.newNotification {
+    display: none;
+}
+
+.toastify.on {
+    display: none;
+}

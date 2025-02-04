@@ -1,5 +1,5 @@
 {
-    "namespace": "TEMPLATENAME",
+    "namespace": "nonotifications",
     "setup": "setup.mjs",
     "load": ["style.css"]
   }
